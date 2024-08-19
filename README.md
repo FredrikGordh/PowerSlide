@@ -4,4 +4,4 @@ This repo represents a coding project for the student association of Powerslide 
 
 [Powerslide LiU Website](http://powerslideliu.se/)
 
-![Alt Text](Powerslide Frontpage.png)
+![Alt Text](Powerslide%20Frontpage.png)
